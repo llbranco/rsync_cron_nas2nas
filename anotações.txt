@@ -1,0 +1,3 @@
+http://www.tecmint.com/rsync-local-remote-file-synchronization-commands/
+http://www.smallnetbuilder.com/nas/nas-howto/30885-how-to-back-up-nas-to-nas-part-4?showall=&start=1
+http://www.seagate.com/br/pt/manuals/network-storage/business-storage-nas-os/backup-jobs/rsync/
